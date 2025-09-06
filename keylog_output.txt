@@ -1,0 +1,41 @@
+Mouse listener disabled - using auto-detection instead
+--- Keylogger started at 2025-09-06 10:38:54 ---
+[10:39:28] 'k' in Unknown Window (non-Windows OS)
+[10:39:30] 'e' in Unknown Window (non-Windows OS)
+[10:39:31] 'e' in Unknown Window (non-Windows OS)
+[10:39:32] 'r' in Unknown Window (non-Windows OS)
+[10:39:32] 't' in Unknown Window (non-Windows OS)
+[10:39:32] 'h' in Unknown Window (non-Windows OS)
+[10:39:33] 'i' in Unknown Window (non-Windows OS)
+--- Keylogger stopped ---
+Mouse listener disabled - using auto-detection instead
+--- Keylogger started at 2025-09-06 10:40:04 ---
+[10:40:10] 'p' in Unknown Window (non-Windows OS)
+[10:40:10] 'o' in Unknown Window (non-Windows OS)
+[10:40:10] 'o' in Unknown Window (non-Windows OS)
+[10:40:12] 'j' in Unknown Window (non-Windows OS)
+[10:40:12] 'a' in Unknown Window (non-Windows OS)
+Mouse listener disabled - using auto-detection instead
+--- Keylogger started at 2025-09-06 10:44:14 ---
+[10:44:16] 'n' in Unknown Window (non-Windows OS)
+[10:44:17] 'o' in Unknown Window (non-Windows OS)
+[10:44:18] 't' in Unknown Window (non-Windows OS)
+[10:44:18] 'e' in Unknown Window (non-Windows OS)
+[10:44:45] 'k' in Unknown Window (non-Windows OS)
+[10:44:46] 'e' in Unknown Window (non-Windows OS)
+[10:44:47] 'e' in Unknown Window (non-Windows OS)
+[10:44:47] 'r' in Unknown Window (non-Windows OS)
+[10:44:48] 't' in Unknown Window (non-Windows OS)
+[10:44:48] 'h' in Unknown Window (non-Windows OS)
+[10:44:48] 'i' in Unknown Window (non-Windows OS)
+--- Keylogger stopped ---
+Mouse listener disabled - using auto-detection instead
+--- Keylogger started at 2025-09-06 14:36:02 ---
+[14:36:16] 'k' in Unknown Window (non-Windows OS)
+[14:36:17] 'e' in Unknown Window (non-Windows OS)
+[14:36:18] 'e' in Unknown Window (non-Windows OS)
+[14:36:18] 'r' in Unknown Window (non-Windows OS)
+[14:36:18] 't' in Unknown Window (non-Windows OS)
+[14:36:18] 'h' in Unknown Window (non-Windows OS)
+[14:36:19] 'i' in Unknown Window (non-Windows OS)
+--- Keylogger stopped ---
